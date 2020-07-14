@@ -2,3 +2,4 @@ Here is another git repository with help from Lynn Schnoor. Yay.
 Things are going pretty well so far.
 I want to add information to your text file.  I have so many good things to change.
 Last time. Let's do it.
+I would like to add a line to this file for you.  ~LS
